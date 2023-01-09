@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^18.2.1",
+    "puppeteer-autoscroll-down": "^1.1.1"
+  }
+}
